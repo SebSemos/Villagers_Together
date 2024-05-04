@@ -2,6 +2,8 @@
 Community driven minecraft ressource pack
 
 This ressource pack change villagers.
+This pack require Entity Textures Features, Entity Model Features and optionally (coming soon) Entity Sounds Features
+Due to usage of these mods exclusive features, it isn't compatible to optifine
 Anyone can submit files to be added to the pack. Simply open an issue where you'll upload the files (Everything in a .zip is prefered)
 They just need to follow some requirement:
 
