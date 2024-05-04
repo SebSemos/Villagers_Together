@@ -27,6 +27,6 @@ They just need to follow some requirement:
 
 - as my other pack I'll do an "addon" to support guard villagers and straw statues (and maybe more in the future)
 
-
+This pack is hosted on both Modrinth and Planet Minecraft
 
 
